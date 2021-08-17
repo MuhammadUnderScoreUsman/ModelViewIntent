@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ModelViewIntent</string>
+    
+    <string name="title_new_feeds">New Feeds</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_account">Account</string>
+</resources>
